@@ -4,15 +4,23 @@ This is a java code for the implementation of cyclic redundancy check error cont
 # Input Output Example
 
 # Example 1
-Enter Divisor:1011/n
-Enter Dataword:1010/n
-The transmitted Code Word is: 1010011/n
-The received Code Word is: 1010010/n
-The received code word contains  errors./n
+Enter Divisor:1011
+<br>
+Enter Dataword:1010
+<br>
+The transmitted Code Word is: 1010011
+<br>
+The received Code Word is: 1010010
+<br>
+The received code word contains  errors.
 
 # Example 2
-Enter Divisor:1011/n
-Enter Dataword:1010/n
-The transmitted Code Word is: 1010011/n
-The received Code Word is: 1010011/n
+Enter Divisor:1011
+<br>
+Enter Dataword:1010
+<br>
+The transmitted Code Word is: 1010011
+<br>
+The received Code Word is: 1010011
+<br>
 The received code word contains no errors.
